@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Disc Golf: Building Community in Brandon"
+author: "Sharon Enns"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
